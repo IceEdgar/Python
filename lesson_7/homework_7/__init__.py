@@ -1,0 +1,1 @@
+all = ['def rename_files']
